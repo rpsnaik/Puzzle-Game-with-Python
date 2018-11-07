@@ -1,0 +1,3 @@
+[2018-11-06 20:36:09.242055] : Starting the Game 
+[2018-11-06 20:36:26.971494] : Got inside the class and the If condition 
+[2018-11-06 20:37:20.674972] : Exit 
